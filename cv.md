@@ -10,3 +10,7 @@
  * html, css
  * javascript
  * git
+ # Education 
+> South Federal Uneversity
+# English level
+> Upper-intermediate
